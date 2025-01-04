@@ -8,7 +8,7 @@ Hi, my name is Gopi. Since the beginning of 2023 I have been studying and practi
 Over the past 7 months at Elsner Technologies, I’ve gained hands-on experience in manual testing, creating test cases, and tracking bugs through Jira. I’ve worked closely with the team to ensure everything runs smoothly and is bug-free. I’ve also started exploring test automation with Selenium to improve efficiency. My goal is to keep learning and improving while ensuring the highest quality for every product I test.<br>
 <br>
 <h1>Tools 🔧</h1><br>
--Jira - project management <br>
+- Jira - project management <br>
 -Confluence - storing informations and documents about project <br>
 qTest - bug tracking <br>
 Slack, [mattermost] (https://mattermost.com/) - communication within the team <br>
