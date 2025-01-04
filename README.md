@@ -7,4 +7,23 @@ Hi, my name is Gopi. Since the beginning of 2023 I have been studying and practi
 <h1>My experience 🏢</h1><br>
 Over the past 7 months at Elsner Technologies, I’ve gained hands-on experience in manual testing, creating test cases, and tracking bugs through Jira. I’ve worked closely with the team to ensure everything runs smoothly and is bug-free. I’ve also started exploring test automation with Selenium to improve efficiency. My goal is to keep learning and improving while ensuring the highest quality for every product I test.<br>
 <br>
-<h1>Tools 🔧</h1>
+<h1>Tools 🔧</h1><br>
+[Jira](https://www.atlassian.com/?clickid=Q0ByV0QFQxyKWpiXtoRQLSnLUkCSvcTXuXvnRk0&irgwc=1&utm_medium=paid-affiliate&utm_source=impact&ircid=17715&irpid=390418&irmpname=Wildfire%20Systems&irmptype=mediapartner&irshareid=A56&irmpgroupname=%22Non-Tech%22&iraid=2022041&utm_content=Wildfire%20-%20Atlassian%20Tracking--TEXT_LINK--&irclkid=Q0ByV0QFQxyKWpiXtoRQLSnLUkCSvcTXuXvnRk0&gad_source=1&gclid=CjwKCAiA1eO7BhATEiwAm0Ee-KPDPhUcg0Kaq2cAUbcTijdfPN_ks8hlO-g_DmFcqCL7CCEGJHl4bRoCsi8QAvD_BwE) - project management <br>
+Confluence - storing informations and documents about project
+qTest - bug tracking
+Slack - communication within the team
+Chrome Devtools - for better testing and improving bug reports
+Google Drive - storing data
+Git - for better work in development team and controlling software versions
+GitHub - supporting Git and preparing my repositories
+Markdown - for better and easy formatting GitHub
+Xampp - practicing SQL
+Postman - API testing
+Pycharm - IDE for Python
+Selenium
+Robot framework
+Visual Studio Code - practicing HTML and CSS
+Zephyr
+Kibana
+TeamCity
+SSMS
