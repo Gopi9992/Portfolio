@@ -4,4 +4,6 @@ Hi, my name is Gopi. Since the beginning of 2023 I have been studying and practi
 
 [My Linkedin Profile](https://www.linkedin.com/in/gopi-gabani-b277a6225/)<br>
 <br>
-<h1>My experience 🏢</h1>
+<h1>My experience 🏢</h1><br>
+Over the past 7 months at Elsner Technologies, I’ve gained hands-on experience in manual testing, creating test cases, and tracking bugs through Jira. I’ve worked closely with the team to ensure everything runs smoothly and is bug-free. I’ve also started exploring test automation with Selenium to improve efficiency. My goal is to keep learning and improving while ensuring the highest quality for every product I test.<br>
+
