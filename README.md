@@ -21,4 +21,6 @@ Pycharm - IDE for Python <br>
 Selenium <br>
 Visual Studio Code - practicing HTML and CSS <br>
 Zephyr <br>
-
+- George Washington
+* John Adams
++ Thomas Jefferson
