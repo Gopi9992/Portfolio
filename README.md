@@ -24,5 +24,17 @@ Selenium<br>
 Robot framework<br>
 Visual Studio Code - practicing HTML and CSS<br>
 
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
+-OR-
+
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
+
 
 
