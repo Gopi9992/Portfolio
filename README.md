@@ -8,7 +8,21 @@ Hi, my name is Gopi. Since the beginning of 2023 I have been studying and practi
 Over the past 7 months at Elsner Technologies, I’ve gained hands-on experience in manual testing, creating test cases, and tracking bugs through Jira. I’ve worked closely with the team to ensure everything runs smoothly and is bug-free. I’ve also started exploring test automation with Selenium to improve efficiency. My goal is to keep learning and improving while ensuring the highest quality for every product I test.<br>
 <br>
 <h1>Tools 🔧</h1><br>
-- [Gopi](https://chatgpt.com/)
+Jira, Trello - project management<br>
+Confluence - storing informations and documents about project<br>
+qTest - bug tracking<br>
+Slack - communication within the team<br>
+Chrome Devtools - for better testing and improving bug reports<br>
+Google Drive - storing data<br>
+Git - for better work in development team and controlling software versions<br>
+GitHub - supporting Git and preparing my repositories<br>
+Markdown - for better and easy formatting GitHub<br>
+Xampp - practicing SQL<br>
+Postman - API testing<br>
+Pycharm - IDE for Python<br>
+Selenium<br>
+Robot framework<br>
+Visual Studio Code - practicing HTML and CSS<br>
 
 
 
