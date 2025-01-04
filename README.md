@@ -9,21 +9,16 @@ Over the past 7 months at Elsner Technologies, I’ve gained hands-on experience
 <br>
 <h1>Tools 🔧</h1><br>
 Jira - project management <br>
-Confluence - storing informations and documents about project
-qTest - bug tracking
-Slack, [mattermost] (https://mattermost.com/) - communication within the team
-Chrome Devtools - for better testing and improving bug reports
-Google Drive - storing data
-Git - for better work in development team and controlling software versions
-GitHub - supporting Git and preparing my repositories
-Markdown - for better and easy formatting GitHub
-Xampp - practicing SQL
-Postman - API testing
-Pycharm - IDE for Python
-Selenium
-Robot framework
-Visual Studio Code - practicing HTML and CSS
-Zephyr
-Kibana
-TeamCity
-SSMS
+Confluence - storing informations and documents about project <br>
+qTest - bug tracking <br>
+Slack, [mattermost] (https://mattermost.com/) - communication within the team <br>
+Chrome Devtools - for better testing and improving bug reports <br>
+Google Drive - storing data <br>
+Git - for better work in development team and controlling software versions <br>
+GitHub - supporting Git and preparing my repositories <br>
+Postman - API testing <br>
+Pycharm - IDE for Python <br>
+Selenium <br>
+Visual Studio Code - practicing HTML and CSS <br>
+Zephyr <br>
+
