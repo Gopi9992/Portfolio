@@ -23,7 +23,32 @@ Pycharm - IDE for Python<br>
 Selenium<br>
 Robot framework<br>
 Visual Studio Code - practicing HTML and CSS<br>
-
-
-
-
+<br>
+<h1>Tech skills 💻</h1>
+1. Rest API testing<br>
+2. ISTQB Foundation Level knowledge<br>
+Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)<br>
+Software testing<br>
+Creating test cases<br>
+Reporting bugs<br>
+Creating bug reports<br>
+Basic Python - for test automation<br>
+Basic HTML and CSS<br>
+Creating documentation<br>
+experience with testing SaaS web applications<br>
+performing smoke tests<br>
+testing UAT<br>
+scrum workflow<br>
+<br>
+<h1>Soft skills 📁</h1><br>
+precision<br>
+communication<br>
+assertiveness<br>
+patience<br>
+empathy<br>
+<h1>Samples 🔬</h1><br>
+## Generic Shop by TestArmy<br>
+Test plan<br>
+Scenario and test cases<br>
+Bug report<br>
+Test report<br>
